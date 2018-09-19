@@ -1,0 +1,34 @@
+# Alterun
+
+### Backup WikeMedia
+
+#### EXPORTING
+Run the following command to back up
+
+Full
+` php maintenance/dumpBackup.php --full > full.xml`
+
+#### IMPORTING
+Run the below to import
+
+`php importDump.php < full.xml`
+
+https://www.mediawiki.org/wiki/Manual:Importing_XML_dumps
+
+== MediaWiki ==
+
+### Create a Category
+
+Add this within the body of the content of the page you want in a category page
+
+`[[Category:Name]]`
+
+### Add a page
+
+Just go to a url that doesn't exist in the browser with the name of the page you want to create. Then click create when the page loads.
+
+### Add an option to the menu
+
+Go to
+
+`MediaWiki:Sidebar`

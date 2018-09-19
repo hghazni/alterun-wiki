@@ -1,0 +1,204 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-GB">
+  <siteinfo>
+    <sitename>Alterun</sitename>
+    <dbname>alterun</dbname>
+    <base>http://localhost:8888/index.php/Main_Page</base>
+    <generator>MediaWiki 1.31.0</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Alterun</namespace>
+      <namespace key="5" case="first-letter">Alterun talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Main Page</title>
+    <ns>0</ns>
+    <id>1</id>
+    <revision>
+      <id>1</id>
+      <timestamp>2018-08-18T11:52:16Z</timestamp>
+      <contributor>
+        <username>MediaWiki default</username>
+        <id>0</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="735">&lt;strong&gt;MediaWiki has been installed.&lt;/strong&gt;
+
+Consult the [https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents User's Guide] for information on using the wiki software.
+
+== Getting started ==
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration_settings Configuration settings list]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ MediaWiki FAQ]
+* [https://lists.wikimedia.org/mailman/listinfo/mediawiki-announce MediaWiki release mailing list]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation#Translation_resources Localise MediaWiki for your language]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Combating_spam Learn how to combat spam on your wiki]</text>
+      <sha1>a5wehuldd0go2uniagwvx66n6c80irq</sha1>
+    </revision>
+    <revision>
+      <id>8</id>
+      <parentid>1</parentid>
+      <timestamp>2018-08-18T17:00:22Z</timestamp>
+      <contributor>
+        <username>Hghazni</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="590">&lt;strong&gt;The World of Alterun&lt;/strong&gt;
+
+== Getting started ==
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration_settings Configuration settings list]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ MediaWiki FAQ]
+* [https://lists.wikimedia.org/mailman/listinfo/mediawiki-announce MediaWiki release mailing list]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation#Translation_resources Localise MediaWiki for your language]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Combating_spam Learn how to combat spam on your wiki]</text>
+      <sha1>dmzusr5kk9uam93mpwrxvihsc503m0o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>User:Hghazni</title>
+    <ns>2</ns>
+    <id>2</id>
+    <revision>
+      <id>2</id>
+      <timestamp>2018-08-18T12:29:26Z</timestamp>
+      <contributor>
+        <username>Hghazni</username>
+        <id>1</id>
+      </contributor>
+      <comment>about hghazni</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7">wut wut</text>
+      <sha1>pg72jiezsfumlc488dj2qot0zygux2m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Alterun</title>
+    <ns>0</ns>
+    <id>3</id>
+    <revision>
+      <id>3</id>
+      <timestamp>2018-08-18T12:33:01Z</timestamp>
+      <contributor>
+        <username>Hghazni</username>
+        <id>1</id>
+      </contributor>
+      <comment>The World, that is Alterun.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="185">Alterun, it's a world. Created by smart aliens. They went onto a world inhabited by a race of elder beings who considered themselves gods. They couldn't be detected by the Enflamed Sea.</text>
+      <sha1>no998rzoelhs1u6dezr7wljzqf2231l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Sidebar</title>
+    <ns>8</ns>
+    <id>4</id>
+    <revision>
+      <id>4</id>
+      <timestamp>2018-08-18T14:10:44Z</timestamp>
+      <contributor>
+        <username>Hghazni</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with &quot; * navigation ** alterun ** mainpage|mainpage-description ** recentchanges-url|recentchanges ** randompage-url|randompage ** helppage|help * SEARCH * TOOLBOX * LANGUAGES&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="169">
+* navigation
+** alterun
+** mainpage|mainpage-description
+** recentchanges-url|recentchanges
+** randompage-url|randompage
+** helppage|help
+* SEARCH
+* TOOLBOX
+* LANGUAGES</text>
+      <sha1>gub9my5yl2ze9al23pq8uvt8b5so40l</sha1>
+    </revision>
+    <revision>
+      <id>5</id>
+      <parentid>4</parentid>
+      <timestamp>2018-08-18T14:11:35Z</timestamp>
+      <contributor>
+        <username>Hghazni</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="189">
+* navigation
+** Alterun|Alterun-description
+** mainpage|mainpage-description
+** recentchanges-url|recentchanges
+** randompage-url|randompage
+** helppage|help
+* SEARCH
+* TOOLBOX
+* LANGUAGES</text>
+      <sha1>5jcac59ioeia7gkro9nytcsshbaw04q</sha1>
+    </revision>
+    <revision>
+      <id>6</id>
+      <parentid>5</parentid>
+      <timestamp>2018-08-18T14:11:50Z</timestamp>
+      <contributor>
+        <username>Hghazni</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="169">
+* navigation
+** Alterun
+** mainpage|mainpage-description
+** recentchanges-url|recentchanges
+** randompage-url|randompage
+** helppage|help
+* SEARCH
+* TOOLBOX
+* LANGUAGES</text>
+      <sha1>5675wxa2hkchozuy6qrqm5fa3gct5bm</sha1>
+    </revision>
+    <revision>
+      <id>7</id>
+      <parentid>6</parentid>
+      <timestamp>2018-08-18T14:12:01Z</timestamp>
+      <contributor>
+        <username>Hghazni</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="177">
+* navigation
+** Alterun|Alterun
+** mainpage|mainpage-description
+** recentchanges-url|recentchanges
+** randompage-url|randompage
+** helppage|help
+* SEARCH
+* TOOLBOX
+* LANGUAGES</text>
+      <sha1>40aoefohq3blulc0o7gpwvpdh9pczrj</sha1>
+    </revision>
+  </page>
+</mediawiki>

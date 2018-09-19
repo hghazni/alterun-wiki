@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/pear/pear-core-minimal" />
+      <path value="$PROJECT_DIR$/vendor/pear/net_socket" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/pear/console_getopt" />
+      <path value="$PROJECT_DIR$/vendor/pear/pear_exception" />
+      <path value="$PROJECT_DIR$/vendor/oyejorge/less.php" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/purtle" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/base-convert" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/liuggio/statsd-php-client" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/cdb" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/scoped-callback" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/wrappedstring" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/wait-condition-loop" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/php-session-serializer" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/ip-set" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/remex-html" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/running-stat" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/at-ease" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/relpath" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/cldr-plural-rule-parser" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/assert" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/html-formatter" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/timestamp" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/testing-access-wrapper" />
+      <path value="$PROJECT_DIR$/vendor/oojs/oojs-ui" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/object-factory" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/composer-merge-plugin" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/utfnormal" />
+      <path value="$PROJECT_DIR$/vendor/cssjanus/cssjanus" />
+      <path value="$PROJECT_DIR$/vendor/zordius/lightncandy" />
+      <path value="$PROJECT_DIR$/vendor/pear/mail" />
+      <path value="$PROJECT_DIR$/vendor/pear/mail_mime-decode" />
+      <path value="$PROJECT_DIR$/vendor/pear/net_smtp" />
+      <path value="$PROJECT_DIR$/vendor/pear/mail_mime" />
+    </include_path>
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings load_method="CUSTOM_LOADER" custom_loader_path="$PROJECT_DIR$/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+</project>

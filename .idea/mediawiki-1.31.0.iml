@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/includes/composer" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/cssjanus/cssjanus" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/liuggio/statsd-php-client" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/oojs/oojs-ui" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/oyejorge/less.php" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/pear/console_getopt" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/pear/mail" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/pear/mail_mime" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/pear/mail_mime-decode" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/pear/net_smtp" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/pear/net_socket" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/pear/pear-core-minimal" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/pear/pear_exception" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/wikimedia/assert" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/wikimedia/at-ease" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/wikimedia/base-convert" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/wikimedia/cdb" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/wikimedia/cldr-plural-rule-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/wikimedia/composer-merge-plugin" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/wikimedia/html-formatter" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/wikimedia/ip-set" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/wikimedia/object-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/wikimedia/php-session-serializer" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/wikimedia/purtle" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/wikimedia/relpath" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/wikimedia/remex-html" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/wikimedia/running-stat" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/wikimedia/scoped-callback" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/wikimedia/testing-access-wrapper" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/wikimedia/timestamp" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/wikimedia/utfnormal" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/wikimedia/wait-condition-loop" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/wikimedia/wrappedstring" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/zordius/lightncandy" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
